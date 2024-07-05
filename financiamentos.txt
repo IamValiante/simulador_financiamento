@@ -1,0 +1,54 @@
+==== Simulação de Financiamento ====
+Imóvel 1
+Tipo de Imóvel: Casa
+Valor: R$ 800500,00
+Prazo de Financiamento: 10 anos
+Taxa de Juros anual: 10,00%
+Área construída: 200,00 m²
+Tamanho do terreno: 200,00 m²
+Valor total deste financiamento: R$ 1279039,98
+
+Imóvel 2
+Tipo de Imóvel: Casa
+Valor: R$ 500000,00
+Prazo de Financiamento: 10 anos
+Taxa de Juros anual: 10,00%
+Área construída: 200,00 m²
+Tamanho do terreno: 500,00 m²
+Valor total deste financiamento: R$ 802504,42
+
+Imóvel 3
+Tipo de Imóvel: Casa
+Valor: R$ 200000,00
+Prazo de Financiamento: 10 anos
+Taxa de Juros anual: 10,00%
+Área construída: 150,00 m²
+Tamanho do terreno: 300,00 m²
+Valor total deste financiamento: R$ 326761,77
+
+Imóvel 4
+Tipo de Imóvel: Apartamento
+Valor: R$ 600000,00
+Prazo de Financiamento: 10 anos
+Taxa de Juros anual: 10,00%
+Número de vagas na garagem: 2
+Número do andar: 5
+Valor total deste financiamento: R$ 114178236,67
+
+Imóvel 5
+Tipo de Imóvel: Apartamento
+Valor: R$ 300000,00
+Prazo de Financiamento: 10 anos
+Taxa de Juros anual: 10,00%
+Número de vagas na garagem: 1
+Número do andar: 10
+Valor total deste financiamento: R$ 57089118,33
+
+Imóvel 6
+Tipo de Imóvel: Terreno
+Valor: R$ 50000,00
+Prazo de Financiamento: 15 anos
+Taxa de Juros anual: 8,00%
+Tipo de zona: residencial
+Valor total deste financiamento: R$ 51340,00
+
